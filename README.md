@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A backend developer from Brasil</h3>
 
-- 🔭 I’m currently working on [Sincere Hidra](https://github.com/J-Emmerich/Sincere-Hydra)
+- 🔭 I’m currently working on [Gordian Knot](https://github.com/J-Emmerich/Gordian-Knot)
 
 - 🌱 I’m currently learning **Node.Js**
 
