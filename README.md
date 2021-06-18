@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 👯 I’m looking to collaborate on **Tor Project**
 
 - 📫 How to reach me **emmerichjoao@protonmail.com**
 
