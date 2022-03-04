@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A backend developer from Brasil</h3>
 
-- 🔭 I’m currently working on [Gordian Knot](https://github.com/J-Emmerich/Gordian-Knot)
+<p align="center"> 🔭 I’m currently working on [Gordian Knot](https://github.com/J-Emmerich/Gordian-Knot) </p>
 <p align="center">Check the <a href="https://gordianknot.xyz">Live Demo</a> </p> 
-- 🌱 I’m currently learning **Node.Js**
 
 
-- 📫 How to reach me **emmerichjoao@protonmail.com**
+- 📫 Reach me **emmerichjoao@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
