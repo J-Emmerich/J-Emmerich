@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Brasil</h3>
 
 - 🔭 I’m currently working on [Gordian Knot](https://github.com/J-Emmerich/Gordian-Knot)
-
+<h3>Check the <a href="https://gordianknot.xyz">Live Demo</a> </h3> 
 - 🌱 I’m currently learning **Node.Js**
 
 
