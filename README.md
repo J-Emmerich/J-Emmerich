@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A backend developer from Brasil</h3>
 
-<p align="center"> 🔭 I’m currently working on [Gordian Knot](https://github.com/J-Emmerich/Gordian-Knot) </p>
+- 🔭 I’m currently working on a Backend Admin Tool called Gordian Knot
+
+<p align="center">Check the <a href="https://github.com/J-Emmerich/Gordian-Knot">Source Code</a> </p> 
 <p align="center">Check the <a href="https://gordianknot.xyz">Live Demo</a> </p> 
 
 
