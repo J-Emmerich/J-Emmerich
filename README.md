@@ -6,7 +6,7 @@
 <p align="center">Check the <a href="https://github.com/J-Emmerich/Gordian-Knot">Source Code</a> </p> 
 <p align="center">Check the <a href="https://gordianknot.xyz">Live Demo</a> </p> 
 
-
+- I'm currently learning Typescript and Java
 - 📫 Reach me **emmerichjoao@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
