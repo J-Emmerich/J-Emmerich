@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joao-emmerich/" target="blank"><img align="center" src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-Square.jpg" alt="joao-emmerich/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/joao-emmerich/" target="blank">Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
