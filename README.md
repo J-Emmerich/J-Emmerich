@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Brasil</h3>
 
 - I'm currently learning Typescript and Java
-- 📫 Reach me **emmerichjoao@protonmail.com**
+- 📫 Reach me **emmerichjoao+github@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
